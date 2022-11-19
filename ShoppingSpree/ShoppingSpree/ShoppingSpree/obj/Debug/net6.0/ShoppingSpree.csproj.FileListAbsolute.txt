@@ -1,0 +1,15 @@
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/bin/Debug/net6.0/ShoppingSpree
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/bin/Debug/net6.0/ShoppingSpree.deps.json
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/bin/Debug/net6.0/ShoppingSpree.runtimeconfig.json
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/bin/Debug/net6.0/ShoppingSpree.dll
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/bin/Debug/net6.0/ShoppingSpree.pdb
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ShoppingSpree.csproj.AssemblyReference.cache
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ShoppingSpree.AssemblyInfoInputs.cache
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ShoppingSpree.AssemblyInfo.cs
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ShoppingSpree.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ShoppingSpree.dll
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/refint/ShoppingSpree.dll
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ShoppingSpree.pdb
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ShoppingSpree.genruntimeconfig.cache
+/Users/stan/Projects/ShoppingSpree/ShoppingSpree/ShoppingSpree/obj/Debug/net6.0/ref/ShoppingSpree.dll
